@@ -66,12 +66,12 @@ Show a distribution plot of all predicted ratings for that user.
 
 ```
 Movie-Rating-Prediction-Collaborative-Filtering/
-│-- Movie Rating Prediction using Collaborative Filtering.py   # Main script
-│-- ratings.csv                                                 # Dataset (user-provided)
-│-- README.md                                                    # Documentation
-│-- assets/                                                      # Images for README
-│    ├── code.JPG
-│    └── terminal.JPG
+│-- Movie Rating Prediction using Collaborative Filtering.py   
+│-- ratings.csv                                                 
+│-- README.md                                                    
+│-- assets/                                                     
+│    └── code.JPG
+
 ```
 ---
 
