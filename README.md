@@ -109,6 +109,7 @@ If you find this project helpful, please ⭐ star the repository to show your su
 ## 📧 Contact
 
 For queries, collaborations, or feedback, reach out at **[sayabarshad789@gmail.com](mailto:sayabarshad789@gmail.com)**
+
 ---
 
 🎥 Predicting your next favorite movie, one rating at a time.
